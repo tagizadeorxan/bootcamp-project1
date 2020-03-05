@@ -1,0 +1,13 @@
+        
+        div {
+            width: 500px;
+            border: solid 1px;
+            border-color: #80ced6;
+            border-radius: 10px;
+            background-color: #f0fff8;
+        }
+        
+        ul {
+            background-color: white;
+            margin-right: -20px;
+        }
